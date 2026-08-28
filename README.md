@@ -1,8 +1,8 @@
 # Portfolio
 # Привет! Меня зовут Козулина Надежда 👋
-## Junior System Analyst | Product Analyst
+## Junior System Analyst | Product Analyst | Project manager
 
-Я системный аналитик с продуктовым бэкграундом и фокусом на проектирование ИТ-решений с нуля. Умею переводить требования бизнеса на язык технической документации, проектировать архитектуру, моделировать базы данных и описывать интеграции. Победительница ИТ-хакатона, студентка УрФУ (Прикладная информатика) и выпускница программ Альфа-Банка и Яндекса.
+Я IT специалист с продуктовым бэкграундом и фокусом на проектирование ИТ-решений с нуля. Умею переводить требования бизнеса на язык технической документации, проектировать архитектуру, моделировать базы данных и описывать интеграции. Победительница ИТ-хакатона, студентка УрФУ (Прикладная информатика) и выпускница программ Альфа-Банка и Яндекса.
 
 📫 **Связь со мной:** [Telegram](https:https://t.me/nadinee_k) | [Email](mailto:nadine.kozulina@gmail.com) 
 
@@ -29,7 +29,7 @@
   * 📦 [UML State Machine: Жизненный цикл заявки](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/state_machine.png)
   * 📝 [Activity Diagram](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/activity_diagram.png)
   * 🔄 UML Sequence: [- успешный сценарий покупки](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/sequence_diagram.png)
-                      [- неуспешный сценарий покупки](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/sequence_%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D1%8B.png)
+*                      [- неуспешный сценарий покупки](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/sequence_%D0%BE%D1%82%D0%BA%D0%B0%D0%B7%D1%8B.png)
 
 
 #### 2. 💳 Альфа.Ключ (Банк, встроенный в чат)
