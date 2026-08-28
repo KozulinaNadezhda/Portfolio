@@ -4,7 +4,7 @@
 
 Я системный аналитик с продуктовым бэкграундом и фокусом на проектирование ИТ-решений с нуля. Умею переводить требования бизнеса на язык технической документации, проектировать архитектуру, моделировать базы данных и описывать интеграции. Победительница ИТ-хакатона, студентка УрФУ (Прикладная информатика) и выпускница программ Альфа-Банка и Яндекса.
 
-📫 **Связь со мной:** [Telegram]([https:https://t.me/nadinee_k]) | [Email](mailto:nadine.kozulina@gmail.com) 
+📫 **Связь со мной:** [Telegram](https:https://t.me/nadinee_k) | [Email](mailto:nadine.kozulina@gmail.com) 
 
 ---
 
@@ -24,7 +24,7 @@
 *Проектирование архитектуры и бизнес-логики инвестиционной платформы для покупки/продажи ценных бумаг на бирже MOEX. Спроектировано с нуля, включая обработку краевых сценариев (отказ KYC, недостаток средств).
 * **Стек:** UML, BPMN, DFD, REST API, JSON.
 * **Артефакты в репозитории:**
-  * 📄 [Бизнес и функциональные требования (ТЗ)](/[https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf])
+  * 📄 [Бизнес и функциональные требования (ТЗ)](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf)
   * 📊 [BPMN: Процесс покупки ценной бумаги](/[ссылка_на_картинку](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/bpmn.jpg))
   * 📦 [UML State Machine: Жизненный цикл заявки](/[[ссылка_на_картинку](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/state_machine.png)])
   * 📝 [Activity Diagram](/[ссылка_на_файл](https://github.com/KozulinaNadezhda/Portfolio/blob/main/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%B8%D0%B7%D0%BB%D0%B8%D1%86/activity_diagram.png))
