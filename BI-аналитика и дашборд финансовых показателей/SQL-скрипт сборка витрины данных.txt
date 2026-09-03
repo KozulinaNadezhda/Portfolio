@@ -1,0 +1,36 @@
+CREATE VIEW v_sales_datamart AS 
+SELECT 
+    b.paydate AS payment_date,
+    EXTRACT(YEAR FROM b.paydate) AS pay_year,
+    EXTRACT(MONTH FROM b.paydate) AS pay_month,
+    TO_CHAR(b.paydate, 'Month') AS month_name,
+    bc.product AS product_group,
+    bc.tariffname AS tariff_name,
+    CASE 
+        WHEN bc.servicename ILIKE '%Лицензия%' THEN 'ПО и Лицензии'
+        WHEN bc.servicename ILIKE '%Абонентское%' OR bc.servicename ILIKE '%сопровождение%' THEN 'Сервисное обслуживание'
+        WHEN bc.servicename ILIKE '%Изготовление сертификата%' THEN 'Выпуск КЭП'
+        WHEN bc.servicename ILIKE '%Консультационные%' OR bc.servicename ILIKE '%Выезд%' THEN 'Услуги и консалтинг'
+        WHEN bc.servicename ILIKE '%Рутокен%' OR bc.servicename ILIKE '%Сканер%' OR bc.servicename ILIKE '%ККТ%' THEN 'Оборудование'
+        ELSE 'Прочее'
+    END AS business_line,
+    CASE 
+        WHEN rp.bcid IS NOT NULL THEN 'Подписка'
+        WHEN bc.servicename ILIKE '%Абонентское%' OR bc.servicename ILIKE '%сопровождение%' THEN 'Подписка'
+        WHEN bc.servicename ILIKE '%Право использования%' AND (bc.servicename ILIKE '%год%' OR bc.servicename ILIKE '%мес%') THEN 'Подписка'
+        ELSE 'Разовая продажа'
+    END AS service_format,
+    bc.paid AS revenue,
+    (bc.paid - bc.cost) AS profit,
+    bc.cnt AS quantity,
+    CASE 
+        WHEN bc.paid > bc.cost THEN 'Прибыльный'
+        WHEN bc.paid < bc.cost THEN 'Убыточный'
+        ELSE 'В нуле (ROI 0%)'
+    END AS profitability_status,
+    c.name AS client_name
+FROM bill_content bc
+JOIN bills b ON bc.bid = b.bid
+LEFT JOIN clients c ON b.cid = c.cid
+LEFT JOIN retail_packs rp ON bc.bcid = rp.bcid
+WHERE b.paydate BETWEEN '2017-01-01' AND '2021-12-31';
